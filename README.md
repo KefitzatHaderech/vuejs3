@@ -1,8 +1,17 @@
 # Vue.js 3
 
-<img src="./image/vuejs.svg" style="width: 20%; height: auto;" alt="Description of SVG image">
+<div style="display: flex; align-items: center;">
 
-Vue.js is an open-source JavaScript framework used for creating interactive web interfaces. It was created by Evan You and is maintained by him along with the Vue core team. Known for its simplicity and flexibility, Vue.js is an excellent choice for both beginners and experienced developers.
+<img src="./image/vuejs.svg" style="width: 20%; height: auto; margin-left: 20px;" alt="Description of SVG image">
+
+
+- Vue.js is an open-source JavaScript framework used for creating interactive web interfaces. 
+- It was created by Evan You and is maintained by him along with the Vue core team. 
+- Known for its simplicity and flexibility, Vue.js is an excellent choice for both beginners and experienced developers.
+
+</div>
+
+---
 
 - [Basic Concepts](#basic-concepts)
 - [Core Fundamentals](#core-fundamentals)
